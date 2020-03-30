@@ -1,0 +1,4 @@
+http://127.0.0.1:25500/sub?target=clashr&url=
+http://127.0.0.1:25500/sub?target=clashr&url=http%3A%2F%2Fnie.eu5.org%2Fv2rayfast.txt%7Chttp%3A%2F%2Fnie.eu5.org%2Fssr.txt&config=https://raw.githubusercontent.com/lzdnico/subconverteriniexample/master/lhie1.ini
+//测试
+http://127.0.0.1:25500/sub?target=clashr&url=http%3A%2F%2Fnie.eu5.org%2Fv2raytest.txt
